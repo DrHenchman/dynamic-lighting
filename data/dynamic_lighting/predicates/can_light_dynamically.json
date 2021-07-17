@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "block": {
+      "tag": "dynamic_lighting:replaceable_with_light"
+    },
+    "light": {
+      "max": 5
+    }
+  }
+}

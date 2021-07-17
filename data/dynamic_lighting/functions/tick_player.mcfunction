@@ -1,0 +1,1 @@
+execute if predicate dynamic_lighting:can_light_dynamically run function dynamic_lighting:light_location
